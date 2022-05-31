@@ -3,7 +3,7 @@
     <div class="header">
       <div class="content">
         <h2 class="title">Curriculos</h2>
-      <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, labore?</p>
+      <p class="description">Lista de curriculos cadastrados</p>
       </div>
       
       <routerLink to="cadastro" class="bt-cadastro">Novo cadastro</routerLink>

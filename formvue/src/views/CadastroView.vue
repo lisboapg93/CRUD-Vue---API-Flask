@@ -1,7 +1,7 @@
 <template>
   <div class="cadastro">
     <h2 class="tile">Cadastro</h2>
-    <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, labore?</p>
+    <p class="description">Cadastre aqui seus dados e faça upload do seu Curriculo em PDF</p>
     <routerLink to="/" class="bt-lista">Listagem</routerLink>
     <form class="form" ref="form">
       <input type="text" v-model="novo.name" placeholder="Nome completo" name="name" id="">

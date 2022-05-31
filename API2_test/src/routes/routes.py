@@ -1,6 +1,6 @@
 from urllib import response
 from flask import Flask, request
-from flask_restx import Api, Resource, reqparse
+from flask_restx import Api, Resource
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 
