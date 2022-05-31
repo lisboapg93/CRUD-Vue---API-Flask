@@ -5,7 +5,7 @@ Desafio teste para processo seletivo.
 
 
 # Etapas
-- Criação de API RESTE com Flask em Python.✔️
+- Criação de API RESTFUL com Flask em Python.✔️
 - API REST com get, post, put e delete.✔️
 - Documentação com Swagger.⌛
 - Geração de logs.⌛
