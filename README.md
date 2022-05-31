@@ -14,7 +14,7 @@ Desafio teste para processo seletivo.
  
  
 # Preparação do ambiente
-Primeiramente deve ser instalado o [Python](https://www.python.org/), após deve ser instalado o [Vue.js](https://vuejs.org/guide/quick-start.html), e também o [Node.js](https://nodejs.org/en/download/), e para a edição de código, é possivel usar o [VSCode](https://code.visualstudio.com/download).
+Primeiramente deve ser instalado o [Python](https://www.python.org/), posteriomente deve ser instalado o [Vue.js](https://vuejs.org/guide/quick-start.html), e também o [Node.js](https://nodejs.org/en/download/), e para a edição de código, é possivel usar o [VSCode](https://code.visualstudio.com/download).
 
 1) Fazer os downloads acima e clonar este repositório.
 
