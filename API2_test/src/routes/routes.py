@@ -1,6 +1,6 @@
 from urllib import response
 from flask import Flask, request
-from flask_restx import Api
+from flask_restx import Api, Resource, reqparse
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 
@@ -21,6 +21,21 @@ users_data = {
 #rota inicial
 api = Api(app, 
     doc='/')
+# 
+#version='1.0', title='Sample API',
+#     description='A sample API',
+#     
+
+
+#rota documentação
+# @app.route('/document')
+# class MyResource(Resource):
+#     def get(self,):
+#         return 'document'
+
+#     @api.response(403, 'Not Authorized')
+#     def post(self, id):
+#         api.abort(403)
 
 
 #rota read
