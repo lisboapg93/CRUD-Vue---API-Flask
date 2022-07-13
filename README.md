@@ -1,8 +1,4 @@
-# Teste CloudOpss
- 
-# Sobre
-Desafio teste para processo seletivo.
-
+# CRUD Vue - API em Flask
 
 # Etapas
 - Criação de API RESTFUL com Flask em Python.✔️
